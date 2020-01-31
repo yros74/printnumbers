@@ -8,4 +8,4 @@ cd printnumbers
 ./printnumbers.py
 ```
 You can execute the program with ./printnumbers.py
-
+It is prerequisite to have python v3 installed.
