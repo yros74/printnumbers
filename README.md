@@ -1,5 +1,5 @@
 # printnumbers
-The programs prints the numbers 1-10 at the terminal
+The programs prints the numbers 1-10 with random order at the terminal
 
 First you have to execute
 ```
